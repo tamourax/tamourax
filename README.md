@@ -1,14 +1,22 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0F172A,50:1E293B,100:22C55E&text=Ahmed%20Tamer&fontAlign=50&fontAlignY=38&fontSize=72&fontColor=FFFFFF&animation=fadeIn&desc=Mobile%20Application%20Developer&descAlign=50&descAlignY=58&descSize=24" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:0F172A,50:1E293B,100:22C55E&text=Ahmed%20Tamer&fontAlign=50&fontAlignY=34&fontSize=72&fontColor=FFFFFF&animation=fadeIn&desc=www.tamoura.me&descAlign=50&descAlignY=56&descSize=24" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=2500&pause=800&color=22C55E&center=true&vCenter=true&width=1000&lines=Mobile+Application+Developer;Flutter+Developer;React+Native+Developer;Clean+Architecture+Advocate;Building+Production-Ready+Mobile+Apps;Always+Learning+Always+Building" />
+<a href="https://www.tamoura.me">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=24&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=1000&lines=www.tamoura.me;Explore+My+Portfolio;Mobile+Application+Developer;Flutter+Developer;React+Native+Developer;Building+Production-Ready+Mobile+Apps" />
+</a>
 
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=tamourax&label=Profile%20Views&style=for-the-badge&color=22c55e" />
 <img src="https://img.shields.io/badge/Focus-Mobile%20Engineering-22C55E?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Based%20in-Cairo,%20Egypt-0F172A?style=for-the-badge" />
+
+<br/><br/>
+
+<a href="https://www.tamoura.me">
+<img src="https://img.shields.io/badge/Portfolio-www.tamoura.me-22C55E?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
 
 </div>
 
@@ -171,8 +179,8 @@
 
 <div align="center">
 
-<a href="https://tamoura.me">
-<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-22C55E?style=for-the-badge&logo=vercel&logoColor=white" />
+<a href="https://www.tamoura.me">
+<img src="https://img.shields.io/badge/Portfolio-www.tamoura.me-22C55E?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
 <a href="https://linkedin.com/in/tamourax">
