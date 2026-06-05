@@ -148,16 +148,6 @@
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/tamourax/tamourax/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-
-</div>
-
----
-
 ## 🌍 Beyond Coding
 
 <div align="center">
