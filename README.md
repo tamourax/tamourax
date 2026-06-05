@@ -1,127 +1,85 @@
-# Hi, I'm Ahmed Tamer 👋
+<div align="center">
 
-Mobile Application Developer specializing in Flutter and React Native.
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Ahmed+Tamer;Mobile+Application+Developer;Flutter+%26+React+Native+Developer;Building+Production-Ready+Mobile+Apps" />
 
-I build production-grade mobile applications for iOS and Android with a strong focus on:
+<br/>
 
-* Clean Architecture
-* Scalable Mobile Apps
-* REST API Integration
-* Firebase Services
-* State Management
-* Performance Optimization
-* Modern UI/UX
+<img src="https://komarev.com/ghpvc/?username=tamourax&style=for-the-badge&color=0ea5e9" />
+
+</div>
+
+---
+
+<div align="center">
+
+### Mobile Application Developer
+
+Building high-performance cross-platform applications with **Flutter** and **React Native**.
+
+</div>
+
+---
 
 ## About Me
 
-* Mobile Application Developer at Bit68
-* Flutter Instructor at ITI
-* Former Flutter Instructor at Amit Learning
-* Bachelor of Information Technology
-* Based in Cairo, Egypt
+- Mobile Application Developer
+- Flutter & React Native specialist
+- Focused on clean architecture and scalable apps
+- Interested in mobile performance, UI/UX, and production-ready systems
+- Portfolio: **https://tamoura.me**
+
+---
 
 ## Tech Stack
 
-### Mobile
+<div align="center">
 
-* Flutter
-* React Native
-* Expo
+<img src="https://skillicons.dev/icons?i=flutter,dart,react,ts,js,nextjs,firebase,git,github,postman,vscode" />
 
-### Frontend
-
-* React.js
-* Next.js
-
-### Architecture
-
-* Clean Architecture
-* MVVM
-* Bloc
-* Cubit
-* Redux Toolkit
-
-### Backend Integration
-
-* REST APIs
-* Dio
-* HTTP
-
-### Cloud & Services
-
-* Firebase Auth
-* Firestore
-* Push Notifications
-
-### Tools
-
-* Git
-* Postman
-* CI/CD
-
-## Featured Projects
-
-### Elevate Egypt
-
-Gym and fitness platform with modern UI and seamless backend integration.
-
-App Store:
-https://apps.apple.com/eg/app/elevate-egypt/id1603366568
-
-Google Play:
-https://play.google.com/store/apps/details?id=com.skywave.elevate
+</div>
 
 ---
 
-### Drive Finance
+## GitHub Activity
 
-Fintech mobile application built with scalable architecture and REST API integration.
+<div align="center">
 
-App Store:
-https://apps.apple.com/eg/app/drive-finance/id6593686709
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=tamourax&show_icons=true&theme=tokyonight&hide_border=true" />
 
-Google Play:
-https://play.google.com/store/apps/details?id=com.Drive.DriveFinance
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=tamourax&theme=tokyonight&hide_border=true" />
 
----
-
-### Boost Sport Club
-
-Sports club platform with booking and membership management.
-
-App Store:
-https://apps.apple.com/sa/app/boost-sports-club/id6759531131
-
-Google Play:
-https://play.google.com/store/apps/details?id=online.boostclub.app
+</div>
 
 ---
 
-### Wealth Karma
+## Most Used Languages
 
-Financial insights platform powered by real-time data integrations.
+<div align="center">
 
-App Store:
-https://apps.apple.com/us/app/wealth-karma/id6739263481
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamourax&layout=compact&theme=tokyonight&hide_border=true" />
 
-Google Play:
-https://play.google.com/store/apps/details?id=com.bit68.WealthKarma
+</div>
 
-## Portfolio
+---
 
-Website:
-https://tamoura.me
+## Connect
 
-LinkedIn:
-https://linkedin.com/in/tamourax
+<div align="center">
 
-GitHub:
-https://github.com/tamourax
+<a href="https://tamoura.me">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
 
-## Current Focus
+<a href="https://linkedin.com/in/tamourax">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-* Flutter
-* React Native
-* AI-powered Mobile Applications
-* Scalable Architecture
-* Mobile Performance Optimization
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:8B5CF6&height=120&section=footer" />
+
+</div>
